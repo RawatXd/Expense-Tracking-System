@@ -74,5 +74,3 @@ if __name__ == "__main__":
     for record in summary:
         print(record)
 
-
-
