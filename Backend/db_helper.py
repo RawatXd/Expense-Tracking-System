@@ -47,6 +47,19 @@ def insert_expenses(expense_date, amount, category, notes):
                 """
         cursor.execute(query, (expense_date, amount, category, notes))
 
+def fetch_expense_summary(start_date, end_date):
+    with get_db_cursor() as cursor:
+        cursor.execute(
+            '''
+            SELECT category,SUM(amount) as total FROM expenses WHERE expense_date
+                BETWEEN %s and %s
+                Group By category
+            ''',
+            (start_date, end_date)
+        )
+        data = cursor.fetchall()
+        return data
+
 
 if __name__ == "__main__":
 
@@ -54,5 +67,12 @@ if __name__ == "__main__":
     # print("Expenses found:", expenses)
 
     insert_expenses("2024-08-25",40,"Food","Ate a Sandwich")
-    
+    delete_expenses("2024-08-25")
+
+
+    summary = fetch_expense_summary("2024-08-01","2024-08-05")
+    for record in summary:
+        print(record)
+
+
 
