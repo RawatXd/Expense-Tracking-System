@@ -24,7 +24,7 @@ def get_db_cursor(commit=False):
 
 def fetch_expenses(expense_date):
     with get_db_cursor() as cursor:
-        
+
         query = "SELECT * FROM expenses WHERE expense_date = %s"
         cursor.execute(query, (expense_date,))
         expenses = cursor.fetchall()
@@ -50,6 +50,9 @@ def insert_expenses(expense_date, amount, category, notes):
 
 if __name__ == "__main__":
 
-    expenses = fetch_expenses("2024-08-01")
-    print("Expenses found:", expenses)
+    # expenses = fetch_expenses("2024-08-01")
+    # print("Expenses found:", expenses)
+
+    insert_expenses("2024-08-25",40,"Food","Ate a Sandwich")
+    
 
