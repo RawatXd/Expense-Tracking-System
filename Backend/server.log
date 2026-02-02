@@ -1,0 +1,9 @@
+2026-02-02 20:34:46,372 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-02 20:34:46,434 - db_helper - INFO -  Inserting expenses for date : 2024-08-25, amount : 40, category : Food, notes : Ate a Sandwich
+2026-02-02 20:34:46,443 - db_helper - INFO - Fetching expense summary called with start:2024-08-01, end:2024-08-05
+2026-02-02 20:36:01,415 - db_helper - INFO - Fetching expenses for 2024-08-30
+2026-02-02 20:36:01,471 - db_helper - INFO -  Inserting expenses for date : 2024-08-25, amount : 40, category : Food, notes : Ate a Sandwich
+2026-02-02 20:36:01,481 - db_helper - INFO - Fetching expense summary called with start:2024-08-01, end:2024-08-05
+2026-02-02 20:52:43,948 - db_helper - INFO - Fetching expenses for 2024-08-28
+2026-02-02 20:52:43,979 - db_helper - INFO -  Inserting expenses for date : 2024-08-28, amount : 20000.0, category : Shopping, notes : Bought a Scooty
+2026-02-02 20:52:56,502 - db_helper - INFO - Fetching expenses for 2024-08-01

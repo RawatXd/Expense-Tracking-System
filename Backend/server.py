@@ -17,5 +17,11 @@ def get_expense(expense_date: date):
 
 @app.post("/expenses/{expense_date}")
 def add_or_update_expense(expense_date: date,expenses:list[Expense]):
+    db_helper.delete_expenses(expense_date)
     for expense in expenses :
-        db_helper.insert_expense(expense_date,expense.amount,expense.notes)
+        db_helper.insert_expenses(expense_date,expense.amount,expense.category,expense.notes)
+
+    return {"message":"Expense updated successfully"}
+
+
+
