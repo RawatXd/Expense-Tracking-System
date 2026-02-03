@@ -7,3 +7,94 @@
 2026-02-02 20:52:43,948 - db_helper - INFO - Fetching expenses for 2024-08-28
 2026-02-02 20:52:43,979 - db_helper - INFO -  Inserting expenses for date : 2024-08-28, amount : 20000.0, category : Shopping, notes : Bought a Scooty
 2026-02-02 20:52:56,502 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:16:48,808 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-03 20:18:00,225 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-03 20:18:19,721 - db_helper - INFO - Fetching expenses for 2024-08-09
+2026-02-03 20:18:24,568 - db_helper - INFO - Fetching expenses for 2024-08-11
+2026-02-03 20:18:28,803 - db_helper - INFO - Fetching expenses for 2024-08-22
+2026-02-03 20:18:33,045 - db_helper - INFO - Fetching expenses for 2024-08-28
+2026-02-03 20:28:57,659 - db_helper - INFO - Fetching expenses for 2024-08-28
+2026-02-03 20:29:07,577 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:30:05,596 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:31:08,663 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:31:42,974 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:33:33,403 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:36:58,105 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:37:47,838 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:38:03,230 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:44:43,742 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:45:07,809 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:45:30,747 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:47:59,001 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:48:07,419 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 20:48:12,029 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-03 20:48:25,789 - db_helper - INFO - Fetching expenses for 2024-08-04
+2026-02-03 20:49:03,847 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 20:49:10,387 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 20:58:46,360 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:58:53,015 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 20:59:00,807 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 20:59:43,426 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 21:07:53,561 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 21:07:58,634 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 21:20:36,774 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 21:20:39,274 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 21:20:43,717 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 21:20:51,760 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 21:20:55,411 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-03 23:05:56,950 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 23:06:03,127 - db_helper - INFO - Fetching expenses for 2024-08-07
+2026-02-03 23:06:13,796 - db_helper - INFO - Fetching expenses for 2025-08-06
+2026-02-03 23:06:21,682 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 23:14:51,054 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 23:14:56,247 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 23:15:01,180 - db_helper - INFO - Fetching expenses for 2024-08-07
+2026-02-03 23:16:08,358 - db_helper - INFO - Fetching expenses for 2024-08-07
+2026-02-03 23:16:10,423 - db_helper - INFO - Fetching expenses for 2024-08-07
+2026-02-03 23:16:10,434 - db_helper - INFO -  Inserting expenses for date : 2024-08-07, amount : 10000.0, category : Rent, notes : Monthly rent payment
+2026-02-03 23:16:10,444 - db_helper - INFO -  Inserting expenses for date : 2024-08-07, amount : 50.0, category : Food, notes : Groceries for the week
+2026-02-03 23:16:10,453 - db_helper - INFO -  Inserting expenses for date : 2024-08-07, amount : 160.0, category : Shopping, notes : Payment at Zudio
+2026-02-03 23:16:10,462 - db_helper - INFO -  Inserting expenses for date : 2024-08-07, amount : 90.0, category : Food, notes : Ate
+2026-02-03 23:16:10,470 - db_helper - INFO -  Inserting expenses for date : 2024-08-07, amount : 60.0, category : Food, notes : Lunch at cafe
+2026-02-03 23:16:32,219 - db_helper - INFO - Fetching expenses for 2024-08-07
+2026-02-03 23:35:25,654 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 23:35:31,932 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 23:35:36,814 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-03 23:36:00,461 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-03 23:57:52,356 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-03 23:58:00,328 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-03 23:58:05,031 - db_helper - INFO - Fetching expenses for 2024-08-05
+2026-02-03 23:58:09,625 - db_helper - INFO - Fetching expenses for 2024-08-05
+2026-02-04 00:00:51,771 - db_helper - INFO - Fetching expenses for 2024-08-07
+2026-02-04 00:00:59,312 - db_helper - INFO - Fetching expenses for 2024-08-07
+2026-02-04 00:01:36,320 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 00:01:42,222 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 00:04:58,952 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 00:05:55,050 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 00:05:58,618 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 00:10:03,423 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 00:10:09,035 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-04 00:10:13,340 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-04 00:13:20,370 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-04 00:13:25,036 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-04 00:13:27,089 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-04 00:13:27,111 - db_helper - INFO -  Inserting expenses for date : 2024-08-02, amount : 1227.0, category : Rent, notes : Monthly rent payment
+2026-02-04 00:13:27,121 - db_helper - INFO -  Inserting expenses for date : 2024-08-02, amount : 300.0, category : Food, notes : Groceries for the week
+2026-02-04 00:13:27,129 - db_helper - INFO -  Inserting expenses for date : 2024-08-02, amount : 1200.0, category : Rent, notes : Monthly rent payment
+2026-02-04 00:13:27,144 - db_helper - INFO -  Inserting expenses for date : 2024-08-02, amount : 300.0, category : Food, notes : Groceries for the week
+2026-02-04 00:13:27,153 - db_helper - INFO -  Inserting expenses for date : 2024-08-02, amount : 50.0, category : Food, notes : Lunch at cafe
+2026-02-04 00:13:33,097 - db_helper - INFO - Fetching expenses for 2024-08-25
+2026-02-04 01:25:33,548 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:25:38,620 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:25:40,683 - db_helper - INFO - Fetching expense summary called with start:2024-08-01, end:2024-08-05
+2026-02-04 01:29:34,051 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:29:37,626 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:29:39,702 - db_helper - INFO - Fetching expense summary called with start:2024-08-01, end:2024-08-05
+2026-02-04 01:29:58,845 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:30:04,404 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:30:05,297 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:30:07,361 - db_helper - INFO - Fetching expense summary called with start:2024-08-04, end:2024-08-09
+2026-02-04 01:30:23,412 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-04 01:30:27,872 - db_helper - INFO - Fetching expenses for 2024-08-04
+2026-02-04 01:30:33,068 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-04 01:30:36,275 - db_helper - INFO - Fetching expenses for 2024-08-04
